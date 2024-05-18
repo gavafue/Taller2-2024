@@ -9,5 +9,7 @@ package interfaz;
  * @author Admin
  */
 public class ClaseInterfaz {
-    
+       public static void main(String[] args) {
+        System.out.println("Hola pibes, el proyecto está seteado");
+    }
 }
