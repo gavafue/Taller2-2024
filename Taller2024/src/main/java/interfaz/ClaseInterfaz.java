@@ -9,5 +9,5 @@ package interfaz;
  * @author Admin
  */
 public class ClaseInterfaz {
-    
+    private int edad;
 }
